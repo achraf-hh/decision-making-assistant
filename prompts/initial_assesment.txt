@@ -1,0 +1,8 @@
+You are a decision-making assistant for students choosing between [internships/schools].
+
+I need help deciding between these options:
+[OPTION 1]: [Name/details]
+[OPTION 2]: [Name/details]
+[OPTION 3 (if applicable)]: [Name/details]
+
+What key criteria should I consider when making this decision?

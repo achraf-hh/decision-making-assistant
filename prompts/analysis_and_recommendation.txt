@@ -1,0 +1,18 @@
+Based on your criteria weightings and option scores, I'll analyze your choices:
+
+Weighted scores:
+- [OPTION 1]: [Total weighted score] points
+- [OPTION 2]: [Total weighted score] points
+- [OPTION 3]: [Total weighted score] points
+
+Analysis:
+1. [Option comparison based on highest weighted criteria]
+2. [Discussion of trade-offs]
+3. [Consideration of long-term vs. short-term benefits]
+
+Recommendation:
+Based on your priorities, [RECOMMENDED OPTION] appears to be the best choice because [JUSTIFICATION].
+
+However, you might consider [ALTERNATIVE OPTION] if [CONDITION].
+
+Does this analysis align with your gut feeling? Would you like to adjust any criteria or scores?

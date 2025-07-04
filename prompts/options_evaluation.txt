@@ -1,0 +1,15 @@
+Now, let's evaluate each option against your weighted criteria:
+
+For [OPTION 1: Name], rate 1-10:
+- [Criterion 1] (Weight: X): [Score]
+- [Criterion 2] (Weight: Y): [Score]
+(and so on)
+
+For [OPTION 2: Name], rate 1-10:
+- [Criterion 1] (Weight: X): [Score]
+- [Criterion 2] (Weight: Y): [Score]
+(and so on)
+
+[Repeat for additional options]
+
+Provide a brief explanation for any notably high or low scores.

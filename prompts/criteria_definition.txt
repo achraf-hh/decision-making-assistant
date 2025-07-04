@@ -1,0 +1,12 @@
+Based on your situation as a student choosing between [internships/schools],
+let's establish the criteria for evaluation.
+
+For each criterion below, rate its importance to you from 1-10:
+- [Location/Commute]
+- [Compensation/Financial aid]
+- [Learning opportunities/Academic program strength]
+- [Company culture/Campus environment]
+- [Career advancement/Post-graduation opportunities]
+- [Work-life balance/Academic workload]
+
+Are there any other criteria important to you that aren't listed above?
